@@ -31,8 +31,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 # theme: minima
 theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 github: 
   repository: LLM4ECommerce/LLM4ECommerce.github.io
