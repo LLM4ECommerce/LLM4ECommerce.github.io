@@ -1,0 +1,73 @@
+---
+# Front matter required for Jekyll to process SCSS files
+---
+
+/* Import Minimal Mistakes default styles */
+@import "minimal-mistakes";
+
+/* Custom styles for the workshop */
+
+/* Ensure the header overlay displays the full image */
+.header-overlay {
+  background-size: contain !important; /* Ensure the entire image is visible */
+  background-position: center !important; /* Center the image */
+  background-repeat: no-repeat !important; /* Prevent tiling */
+  height: auto; /* Let the height adjust dynamically */
+  min-height: 100vh !important; /* Ensure the header spans the full viewport */
+}
+
+/* Set a minimum height for the header wrapper */
+.header-wrapper {
+  min-height: 100vh; /* Ensure the header spans the full viewport height */
+}
+
+/* Optional: Adjust text styles in the header overlay */
+.splash .page-title {
+  font-size: 3rem; /* Adjust title font size */
+  color: white; /* Set text color */
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Add text shadow for readability */
+  text-align: center; /* Center align the title */
+}
+
+/* Adjust the caption under the header title */
+.splash .splash-caption {
+  font-size: 1.5rem; /* Set caption font size */
+  color: rgba(255, 255, 255, 0.8); /* Light color for contrast */
+  text-align: center; /* Center align the caption */
+}
+
+/* Button styles in the header overlay */
+.splash .btn {
+  background-color: #007acc; /* Set button background color */
+  color: #fff; /* Set button text color */
+  padding: 10px 20px; /* Adjust button padding */
+  border-radius: 5px; /* Round button corners */
+  text-transform: uppercase; /* Make text uppercase */
+}
+
+/* General layout adjustments */
+body {
+  font-family: "Arial", sans-serif; /* Set a custom font */
+}
+
+
+.container {
+  max-width: 1200px; /* Restrict container width */
+  margin: 0 auto; /* Center align the container */
+}
+
+/* Footer customization */
+.site-footer {
+  background-color: #222; /* Dark footer background */
+  color: #fff; /* Light footer text */
+  text-align: center; /* Center align footer text */
+  padding: 20px 0; /* Add padding */
+}
+
+
+.page__hero--overlay {
+  background-size: 100% auto !important; /* Width covers the page, height adjusts proportionally */
+  background-position: center !important; /* Align image to the top center */
+  background-repeat: no-repeat !important; /* Prevent tiling */
+  height: 45vh; /* Set height to 50% of the viewport */
+}
