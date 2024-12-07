@@ -35,6 +35,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 github: 
   repository: LLM4ECommerce/LLM4ECommerce.github.io
