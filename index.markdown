@@ -23,6 +23,11 @@ Welcome to the **Large Language Model for E-Commerce Workshop** at [WWW'25](http
 
 Please submit your work through [https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/LLM4ECommerce](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/LLM4ECommerce)
 
+Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the “sigconf” proceedings template for LaTeX and the Interim Template for Word).
+
+
+
+
 
 
 ## Topics
