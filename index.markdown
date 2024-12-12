@@ -3,11 +3,11 @@ layout: splash
 title: "Large Language Model for E-Commerce Workshop"
 header:
   overlay_image: /assets/images/homepage.jpg
-  style: "background-size: contain; background-position: center; height: auto; min-height: 100vh;"
+  style: "background-size: contain; background-position: center; height: auto; min-height: 120vh;"
   overlay_filter: 0.5 # Darkens the image for better text visibility
   actions:
     - label: "Learn More"
-      url: "/about/"
+      url: "/cfp/"
 excerpt: "Join us at WWW'25 to explore how Large Language Models are advancing e-commerce research and applications."
 ---
 
@@ -32,8 +32,6 @@ Submissions of papers must be in English, in PDF format, in the current ACM two-
 
 - Long paper: Submission of original work up to eight pages in length (unlimited references and appendix).
 - Short paper: Submission of work in progress with preliminary results, and position papers, up to four pages in length (unlimited references and appendix).
-
-
 
 
 
