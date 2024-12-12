@@ -16,15 +16,22 @@ Welcome to the **Large Language Model for E-Commerce Workshop** at [WWW'25](http
 
 ## Important Dates
 - Submission Deadline: December 25, 2024
-- Notification: xxx xx, 2025
-- Workshop: xxx xxx, 2025
+- Notification: January 20, 2025
+- Camera-ready: February 2, 2025
+- Workshop: April 28 or 29, 2025
+
+All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.
 
 ## Submission
 
 Please submit your work through [https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/LLM4ECommerce](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/LLM4ECommerce)
 
-Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the “sigconf” proceedings template for LaTeX and the Interim Template for Word).
 
+Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the “sigconf” proceedings template for LaTeX and the Interim Template for Word) (also [available](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty) in Overleaf). The recommended setting for LaTeX is: \documentclass[sigconf, anonymous, review]{acmart}.
+
+
+- Long paper: Submission of original work up to eight pages in length (unlimited references and appendix).
+- Short paper: Submission of work in progress with preliminary results, and position papers, up to four pages in length (unlimited references and appendix).
 
 
 
