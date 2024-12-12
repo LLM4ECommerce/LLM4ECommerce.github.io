@@ -21,6 +21,8 @@ Welcome to the **Large Language Model for E-Commerce Workshop** at [WWW'25](http
 
 ## Submission
 
+Please submit your work through [https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/LLM4ECommerce](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/LLM4ECommerce)
+
 
 
 ## Topics
