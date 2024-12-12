@@ -14,6 +14,14 @@ excerpt: "Join us at WWW'25 to explore how Large Language Models are advancing e
 
 Welcome to the **Large Language Model for E-Commerce Workshop** at [WWW'25](https://www2025.thewebconf.org/).
 
+## Call for Papers
+
+Large Language Models (LLMs) have recently emerged as transformative tools in artificial intelligence, revolutionizing various domains. In e-commerce, LLMs have demonstrated remarkable potential to drive innovation and enhance customer experiences. E-commerce data typically includes multi-modal information, such as product titles, images, user-item interactions, and customer reviews. The richness and diversity of this data create unique opportunities for designing and applying advanced LLM models.
+LLMs have already been applied to a range of e-commerce tasks, including product recommendation, search, classification, question answering, and advertising. They have also been integrated into real-world production systems, such as Amazon Rufus and Taobao Wenwen. Despite these successes, the adoption of LLMs in e-commerce is still in its early stages. Significant challenges remain, such as ensuring the accuracy of LLM-generated content, improving efficiency, mitigating biases, and safeguarding user privacy and data security.
+
+This workshop seeks to explore a wide range of topics related to the use of LLMs in e-commerce, encompassing methods, datasets, applications, and systems. We invite submissions that address these challenges and contribute to advancing the state-of-the-art in LLMs for e-commerce.
+
+
 ## Important Dates
 - Submission Deadline: December 25, 2024
 - Notification: January 20, 2025
