@@ -2,8 +2,8 @@
 layout: single
 title: "Call for Papers"
 permalink: /cfp/
+class: wide
 ---
-
 
 ### Call for Papers
 

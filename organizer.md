@@ -146,14 +146,13 @@ classes: wide
 
 
 <style>
-/* Override minimal-mistakes page width */
+/* Base page styles */
 .page {
   float: left;
   width: 100%;
-  max-width: 1200px; /* Wide layout */
+  max-width: 1200px;
   margin: 0 auto;
-  padding-right: 50px;
-  padding-left: 50px;
+  padding: 20px;
   background: #f8fafc;
   border-radius: 20px;
 }
@@ -161,55 +160,39 @@ classes: wide
 /* Organizers Section */
 .organizer-row {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: flex-start; 
-  margin: 40px 20px;
-  padding: 20px;
+  margin: 20px 10px;
+  padding: 15px;
   background: #ffffff;
   border-radius: 15px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
   transition: transform 0.2s ease;
 }
 
-.organizer-row.reverse {
-  flex-direction: row-reverse;
-}
-
-.organizer-row:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
-}
-
-/* Enhanced Image Styles */
+/* Image styles */
 .organizer-img {
-  max-width: 150px; /* Larger image */
+  max-width: 120px;
+  width: 100%;
   height: auto;
   border-radius: 8px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
   border: 2px solid #e0e0e0;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 0.3s ease;
 }
 
-.organizer-img:hover {
-  transform: scale(1.05);
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
-  border-color: #3498db;
-}
-
-/* Image Container */
+/* Image container */
 .organizer-image {
-  width: 250px; /* Increased width to accommodate one-line institution name */
+  width: 100%;
+  max-width: 250px;
   text-align: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  margin-bottom: 20px;
 }
 
-/* Text under images */
+/* Text styles */
 .organizer-image h3 {
   margin: 10px 0 5px;
-  font-size: 1.2em;
+  font-size: 1.1em;
   color: #2c3e50;
   font-weight: 600;
 }
@@ -218,59 +201,84 @@ classes: wide
   margin: 0;
   font-size: 0.9em;
   color: #5a6c7d;
-  white-space: nowrap; /* Prevent wrapping */
+  word-wrap: break-word;
 }
 
 /* Bio text */
 .organizer-bio {
-  flex: 2;
-  text-align: justify;
-  margin-left: 10px;
-  padding: 0;
-  display: flex;
-  align-items: center;
-  min-height: 100%;
+  width: 100%;
+  text-align: center;
+  padding: 0 10px;
 }
 
 .organizer-bio p {
-  font-size: 1.05em;
-  line-height: 1.6;
+  font-size: 1em;
+  line-height: 1.5;
   color: #3a4a5a;
   margin: 0;
 }
 
-/* Divider */
-.organizer-divider {
-  border: none;
-  height: 1px;
-  background: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.1), rgba(0,0,0,0));
-  margin: 30px 0;
+/* Responsive styles for tablets and up */
+@media (min-width: 768px) {
+  .page {
+    padding: 50px;
+  }
+
+  .organizer-row {
+    flex-direction: row;
+    align-items: flex-start;
+    margin: 40px 20px;
+    padding: 20px;
+  }
+
+  .organizer-row.reverse {
+    flex-direction: row-reverse;
+  }
+
+  .organizer-image {
+    width: 250px;
+    margin-bottom: 0;
+  }
+
+  .organizer-bio {
+    flex: 2;
+    text-align: justify;
+    margin: 0 20px;
+  }
+
+  .organizer-img {
+    max-width: 150px;
+  }
+
+  .organizer-bio p {
+    font-size: 1.05em;
+    line-height: 1.6;
+  }
 }
 
-/* Page title styling */
+/* Page title */
 .page__title {
   color: #2c3e50;
   text-align: center;
-  margin-bottom: 40px;
-  font-size: 2.5em;
+  margin-bottom: 30px;
+  font-size: 2em;
   font-weight: 700;
-  position: relative;
 }
 
-.page__title:after {
-  content: "";
-  display: block;
-  width: 60px;
-  height: 4px;
-  background: #3498db;
-  margin: 15px auto;
-  border-radius: 2px;
-}
+@media (min-width: 768px) {
+  .page__title {
+    font-size: 2.5em;
+    margin-bottom: 40px;
+  }
 
-@media (min-width: 80em) {
-  .page {
-    padding-right: 50px;
-    padding-left: 50px;
+  .page__title:after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 4px;
+    background: #3498db;
+    margin: 15px auto;
+    border-radius: 2px;
   }
 }
 </style>
