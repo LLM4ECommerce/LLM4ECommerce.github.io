@@ -92,7 +92,7 @@ classes: wide
 
 <div class="organizer-row reverse">
   <div class="organizer-bio">
-    <p><a href="https://www.linkedin.com/in/zhenlimathstat/" target="_blank" rel="noopener">Zhen Li</a> is an engineering manager at Amazon Search, leading a team of applied scientists and data scientists to support Amazon Rufus, focused on deciphering customer intent through fine-tuned large language models. His proficiency spans across NLP, Recommendation, Personalization, Graph Neural Network, and Large Language Models (LLM). He has hands-on experience in driving end-to-end solutions across Advertising (including FB Instant Article Ads and Watch Video Ads), Search Ranking (Facebook personalized search), and Friends Recommendation (People You May Know, PYMK), as well as User Growth and Acquisition.</p>
+    <p><a href="https://www.linkedin.com/in/zhenlimathstat/" target="_blank" rel="noopener">Zhen Li</a> is an Engineering Manager at Amazon Search, where he leads a team dedicated to enhancing customer conversation understanding to identify shopping intent. Before joining Amazon, Zhen spent several years at Facebook (now Meta), driving user growth and advertising initiatives. His expertise includes applying Graph Neural Network models for abuse detection and leveraging Large Language Models (LLMs) to innovate in e-commerce applications.</p>
   </div>
   <div class="organizer-image">
     <img src="/assets/images/Zhen.jpg" alt="Organizer 7" class="organizer-img">
