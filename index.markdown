@@ -69,3 +69,43 @@ Submissions of papers must be in English, in PDF format, in the current ACM two-
 
 
 [Learn More](/cfp/)
+
+
+## Organizers
+
+Meet the team behind the **LLM for E-Commerce Workshop**:
+
+<div class="organizers">
+  <div class="organizer">
+    <img src="/assets/images/haoyu.jpg" alt="Organizer Name" style="width:150px; border-radius:50%;">
+    <h4>Haoyu Han</h4>
+    <p>Michigan State University</p>
+  </div>
+  <div class="organizer">
+    <img src="/assets/images/jiliang.jpg" alt="Organizer Name" style="width:150px; border-radius:50%;">
+    <h4>Jiliang Tang</h4>
+    <p>Michigan State University</p>
+  </div>
+  <!-- <div class="organizer">
+    <img src="/assets/images/organizer3.jpg" alt="Organizer Name" style="width:150px; border-radius:50%;">
+    <h4>Organizer Name 3</h4>
+    <p>Affiliation</p>
+  </div> -->
+</div>
+
+<style>
+.organizers {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  text-align: center;
+}
+.organizer img {
+  max-width: 100%;
+  height: auto;
+}
+.organizer h4 {
+  margin: 10px 0 5px;
+}
+</style>

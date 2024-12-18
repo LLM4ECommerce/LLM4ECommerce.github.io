@@ -36,7 +36,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
-
+  - jekyll-sass-converter
 github: 
   repository: LLM4ECommerce/LLM4ECommerce.github.io
 
