@@ -30,6 +30,9 @@ This workshop seeks to explore a wide range of topics related to the use of LLMs
 
 All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.
 
+## Fast-Track
+We accept the Fast-Track of WWW 2025. Please follow the instruction in [https://www2025.thewebconf.org/workshop-fast-track](https://www2025.thewebconf.org/workshop-fast-track).
+
 ## Submission
 
 Please submit your work through [https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/LLM4ECommerce](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/LLM4ECommerce)
