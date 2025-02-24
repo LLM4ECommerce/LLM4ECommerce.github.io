@@ -144,6 +144,37 @@ classes: wide
   </div>
 </div>
 
+<hr class="organizer-divider">
+
+<div class="organizer-row reverse">
+  <div class="organizer-bio">
+    <p><a href="https://www.linkedin.com/in/qi-he/" target="_blank" rel="noopener">Qi He</a> as Amazon's Director of Applied Science, is a technical leader in AI and its business applications, with a track record of 20 years of experience leading and executing large complex AI projects. He serves as a Steering Committee member of ACM CIKM and an advisory board member of Neurocomputing Journal. He held many editorial and conference chair positions, including Associate Editor of IEEE TKDE and Neurocomputing Journal, General Chair of CIKM 2013, PC Chair of CIKM 2019 and Industry Chair of Web 2024, while also served as a (senior) program committee member of SIGKDD, SIGIR, WWW, CIKM, and WSDM for over a decade. Qi has published over 70 papers and patents with over 7000 citations to date. He received the 2008 ACM SIGKDD Best Application Paper Award and the 2020 ACM WSDM 10-year Test of Time Award. Qi is an IEEE Fellow, ACM Distinguished Member and was featured as the People of ACM in February 2021.  </p>
+  </div>
+  <div class="organizer-image">
+    <img src="/assets/images/qi.jpeg" alt="Organizer 10" class="organizer-img">
+    <h3>Qi He</h3>
+    <p class="institution">Amazon</p>
+    <p class="institution">Director of Applied Science</p>
+  </div>
+</div>
+
+
+<hr class="organizer-divider">
+
+<div class="organizer-row reverse">
+  <div class="organizer-bio">
+    <p><a href="https://sites.duke.edu/jianpei/" target="_blank" rel="noopener">Jian Pei</a> is a Professor and Chair at Duke University, holding a joint position among Computer Science, Biostatistics and Bioinformatics, and Electric and Computer Engineering. He is a renowned researcher in data science, big data, data mining, and database systems. He is recognized as a Fellow of the Royal Society of Canada (i.e., the national academy of Canada), the Canadian Academy of Engineering, the Association of Computing Machinery (ACM) and the Institute of Electrical and Electronics Engineers (IEEE). At the same time, he is also renowned for his active and productive professional leadership. Jian Pei is one of the most cited authors in data mining, database systems, and information retrieval. Since 2000, he has published one textbook, two monographs and over 200 research papers in refereed journals and conferences, which have been cited over 130,000 times. He received many prestigious awards, including the 2017 ACM SIGKDD Innovation Award, the 2015 ACM SIGKDD Service Award, and the 2014 IEEE ICDM Research Contributions Award. </p>
+  </div>
+  <div class="organizer-image">
+    <img src="/assets/images/jian.jpg" alt="Organizer 11" class="organizer-img">
+    <h3>Jian Pei</h3>
+    <p class="institution">Duke University</p>
+    <p class="institution">Professor and Chair, Department of Computer Science</p>
+  </div>
+</div>
+
+
+
 
 <style>
 /* Base page styles */
