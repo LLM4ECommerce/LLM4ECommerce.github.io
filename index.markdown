@@ -26,17 +26,18 @@ Welcome to the **Large Language Model for E-Commerce Workshop** at [WWW'25](http
 |--------------------|---------------------------|--------------------------|
 | **Morning**        |                           |                          |
 | 09:00 – 09:15      | Opening                   |                          |
-| 09:10 – 09:50      | Invited Talk 1 -  Small Language Models in the Era of Large Language Models         | Fali Wang (Penn State)       |
-| 09:50 – 10:30      | Invited Talk 2 -  On the Intersection of Language and Graph Models          | Chuxu Zhang (Uconn)        |
+| 09:10 – 09:50      | Invited Talk 1 - Small Language Models in the Era of Large Language Models         | Fali Wang (Penn State)       |
+| 09:50 – 10:30      | Invited Talk 2 - On the Intersection of Language and Graph Models          | Chuxu Zhang (Uconn)        |
 | 10:30 – 11:00      | Coffee Break              |                          |
-| 11:00 – 11:40      | Invited Talk 3            | Derek Cheng (Google)             |
+| 11:00 – 11:40      | Invited Talk 3 - Less is More: Data & Model Efficiency for RecSys and LLMs
+          | Derek Cheng (Google DeepMind)             |
 | 11:30 – 12:30      | Poster Session            |                          |
 | **12:30 – 13:30**  | **Lunch**                 |                          |
 | **Afternoon**      |                           |                          |
 | 13:40 – 14:20     | Invited Talk 4  - Making LLM embedding the Swiss Army Knife for Recsys in the GenAI era              |       Da Xu (Linkedin)              |
 | 14:20 – 15:00      | Invited Talk 5        |          Chua Tat Seng (NUS)      |
 | 15:00 – 15:30      | Coffee Break            |                      |
-| 15:30 – 16:00     | Panel Discussion           |           Jian Pei (Duke), Da Xu (Linkedin), Derek Cheng (Google), Chua Tat Seng (NUS)  |
+| 15:30 – 16:00     | Panel Discussion           |           Jian Pei (Duke), Da Xu (Linkedin), Derek Cheng (Google DeepMind), Chua Tat Seng (NUS)  |
 
 
 
