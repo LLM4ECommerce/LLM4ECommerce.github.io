@@ -19,8 +19,7 @@ permalink: /schedule/
 | 09:10 – 09:50      | Invited Talk 1 - Small Language Models in the Era of Large Language Models         | Fali Wang (Penn State)       |
 | 09:50 – 10:30      | Invited Talk 2 - On the Intersection of Language and Graph Models          | Chuxu Zhang (Uconn)        |
 | 10:30 – 11:00      | Coffee Break              |                          |
-| 11:00 – 11:40      | Invited Talk 3 - Less is More: Data & Model Efficiency for RecSys and LLMs
-          | Derek Cheng (Google DeepMind)             |
+| 11:00 – 11:40      | Invited Talk 3 - Less is More: Data & Model Efficiency for RecSys and LLMs | Derek Cheng (Google DeepMind)             |
 | 11:30 – 12:30      | Poster Session            |                          |
 | **12:30 – 13:30**  | **Lunch**                 |                          |
 | **Afternoon**      |                           |                          |
