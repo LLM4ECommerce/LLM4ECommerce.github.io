@@ -28,8 +28,8 @@ Welcome to the **Large Language Model for E-Commerce Workshop** at [WWW'25](http
 | 09:00 – 09:15      | Opening                   |                          |
 | 09:10 – 09:50      | Invited Talk 1 -  Small Language Models in the Era of Large Language Models         | Fali Wang (Penn State)       |
 | 09:50 – 10:30      | Invited Talk 2 -  On the Intersection of Language and Graph Models          | Chuxu Zhang (Uconn)        |
-| 10:30 – 10:50      | Coffee Break              |                          |
-| 10:50 – 11:30      | Invited Talk 3            | Derek Cheng (Google)             |
+| 10:30 – 11:00      | Coffee Break              |                          |
+| 11:00 – 11:40      | Invited Talk 3            | Derek Cheng (Google)             |
 | 11:30 – 12:30      | Poster Session            |                          |
 | **12:30 – 13:30**  | **Lunch**                 |                          |
 | **Afternoon**      |                           |                          |
