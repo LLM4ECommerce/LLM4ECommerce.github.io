@@ -34,7 +34,7 @@ Welcome to the **Large Language Model for E-Commerce Workshop** at [WWW'25](http
 | **12:30 – 13:30**  | **Lunch**                 |                          |
 | **Afternoon**      |                           |                          |
 | 13:40 – 14:20     | Invited Talk 4  - Making LLM embedding the Swiss Army Knife for Recsys in the GenAI era              |       Da Xu (Linkedin)              |
-| 14:20 – 15:00      | Invited Talk 5        |          Chua Tat Seng (NUS)      |
+| 14:20 – 15:00      | Invited Talk 5 - Personalization of Large Foundation Models and Applications        |          Chua Tat Seng (NUS)      |
 | 15:00 – 15:30      | Coffee Break            |                      |
 | 15:30 – 16:00     | Panel Discussion           |           Jian Pei (Duke), Da Xu (Linkedin), Derek Cheng (Google DeepMind), Chua Tat Seng (NUS)  |
 
