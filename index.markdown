@@ -30,7 +30,7 @@ Welcome to the **Large Language Model for E-Commerce Workshop** at [WWW'25](http
 | 09:50 – 10:30      | Invited Talk 2 - On the Intersection of Language and Graph Models          | Chuxu Zhang (Uconn)        |
 | 10:30 – 11:00      | Coffee Break              |                          |
 | 11:00 – 11:40      | Invited Talk 3 - Less is More: Data & Model Efficiency for RecSys and LLMs | Derek Cheng (Google DeepMind)             |
-| 11:30 – 12:30      | Poster Session            |                          |
+| 11:40 – 12:30      | Poster Session            |                          |
 | **12:30 – 13:30**  | **Lunch**                 |                          |
 | **Afternoon**      |                           |                          |
 | 13:40 – 14:20     | Invited Talk 4  - Making LLM embedding the Swiss Army Knife for Recsys in the GenAI era              |       Da Xu (Linkedin)              |
