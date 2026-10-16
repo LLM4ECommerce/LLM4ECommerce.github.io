@@ -206,3 +206,4 @@ h3 { font: 600 1.25rem/1.25 var(--display); margin: 0 0 .75rem; }
   .timeline li { grid-template-columns: 1fr; gap: 0; }
   .msg { max-width: 100%; }
 }
+img.mono { object-fit: cover; object-position: center 25%; }
