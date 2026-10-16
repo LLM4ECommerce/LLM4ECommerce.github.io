@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Organizers"
-permalink: /organizers/
+permalink: /www2025/organizers/
 classes: wide
 ---
 

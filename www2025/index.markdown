@@ -1,5 +1,6 @@
 ---
 layout: splash
+permalink: /www2025/
 title: "Large Language Model for E-Commerce Workshop"
 header:
   overlay_image: /assets/images/homepage.jpg
@@ -7,7 +8,7 @@ header:
   overlay_filter: 0.5 # Darkens the image for better text visibility
   actions:
     - label: "Learn More"
-      url: "/cfp/"
+      url: "/www2025/cfp/"
 excerpt: "Join us at WWW'25 to explore how Large Language Models are advancing e-commerce research and applications."
 ---
 
@@ -97,4 +98,4 @@ Submissions of papers must be in English, in PDF format, in the current ACM two-
 - Machine Learning Systems for E-Commerce LLM -->
 
 
-<!-- [Learn More](/cfp/) -->
+<!-- [Learn More](/www2025/cfp/) -->

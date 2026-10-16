@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Workshop Schedule"
-permalink: /schedule/
+permalink: /www2025/schedule/
 ---
 
 ### Workshop Schedule

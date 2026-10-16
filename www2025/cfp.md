@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Call for Papers"
-permalink: /cfp/
+permalink: /www2025/cfp/
 class: wide
 ---
 
