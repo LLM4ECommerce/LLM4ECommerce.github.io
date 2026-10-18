@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Public+Sans:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/style.css?v=2">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -138,6 +138,32 @@
     <div class="wrap two-col">
       <h2>Submission</h2>
       <div class="prose">
+        <div class="howto">
+          <h3>How to submit</h3>
+          <ol class="steps">
+            <li class="step">
+              <p class="step-text">Open the WSDM 2027 site on <a href="https://cmt3.research.microsoft.com/WSDM2027/Submission/Index">Microsoft CMT</a> and sign in.</p>
+              <div class="mock" aria-hidden="true">
+                <span class="mock-url">…microsoft.com/WSDM2027</span>
+              </div>
+            </li>
+            <li class="step">
+              <p class="step-text">Click <strong>Create new submission</strong>.</p>
+              <div class="mock" aria-hidden="true">
+                <span class="mock-btn">+ Create new submission</span>
+              </div>
+            </li>
+            <li class="step">
+              <p class="step-text">Choose the track <strong>Workshop - LLMs for E-commerce</strong>.</p>
+              <div class="mock mock-menu" aria-hidden="true">
+                <span>Research Track</span>
+                <span class="pick">Workshop - LLMs for E-commerce</span>
+                <span>Other workshops</span>
+              </div>
+            </li>
+          </ol>
+          <p class="howto-cta"><a class="btn btn-primary" href="https://cmt3.research.microsoft.com/WSDM2027/Submission/Index">Submit on CMT</a></p>
+        </div>
         <p>Submit papers in English, as a PDF, in the current <a href="https://www.acm.org/publications/proceedings-template">ACM two-column conference format</a>. For LaTeX, use <code>\documentclass[sigconf,anonymous,review]{acmart}</code>. Review is double-blind, so remove author names and affiliations.</p>
         <ul class="paper-types">
           <li><strong>Long papers</strong> Original work, up to 8 pages plus unlimited references and appendix.</li>
@@ -145,8 +171,6 @@
         </ul>
         <p>Accepted papers will be presented as posters, and selected papers will also be given a 10-minute oral slot. Following WSDM policy, at least one author of each accepted paper must present in person. Remote presentations are not supported.</p>
         <p>Accepted papers will appear in the WSDM 2027 Companion Proceedings.</p>
-        <p>Submit through the WSDM 2027 Microsoft CMT site. Click <strong>Create new submission</strong>, then choose <strong>Workshop - LLMs for E-commerce</strong>.</p>
-        <p><a class="btn btn-primary" href="https://cmt3.research.microsoft.com/WSDM2027/Submission/Index">Submit on CMT</a></p>
       </div>
     </div>
   </section>
@@ -157,7 +181,7 @@
       <h2>Important dates</h2>
       <div>
         <ol class="timeline">
-          <li><time datetime="2026-10-25">Oct 25, 2026</time><span>Submissions open</span></li>
+          <li class="is-open"><time>Open now</time><span>Submissions are open on CMT</span></li>
           <li><time datetime="2026-11-30">Nov 30, 2026</time><span>Paper submission deadline</span></li>
           <li><time datetime="2026-12-18">Dec 18, 2026</time><span>Acceptance notification</span></li>
           <li class="is-event"><time datetime="2027-02-19">Feb 19, 2027</time><span>Workshop day in Hong Kong</span></li>
