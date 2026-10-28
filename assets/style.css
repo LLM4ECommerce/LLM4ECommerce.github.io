@@ -136,6 +136,17 @@ h3 { font: 600 1.25rem/1.25 var(--display); margin: 0 0 .75rem; }
 }
 
 /* Submission */
+.limit {
+  display: flex; align-items: center; gap: 20px; margin: 1.5rem 0;
+  background: var(--ink); color: var(--white); padding: 18px 22px; border-radius: 8px;
+}
+.limit p { margin: 0; }
+.limit-num {
+  flex: none; font: 800 clamp(1.8rem, 4vw, 2.4rem)/1 var(--display); letter-spacing: -.02em;
+  color: var(--ink); background: var(--tag); padding: 8px 14px; border-radius: 6px;
+}
+.limit-text strong { display: block; font-family: var(--display); font-size: 1.15rem; }
+@media (max-width: 480px) { .limit { flex-direction: column; align-items: flex-start; } }
 .paper-types { list-style: none; padding: 0; margin: 1.5rem 0; display: grid; gap: 12px; }
 .paper-types li { background: var(--white); border: 1px solid var(--line); border-left: 4px solid var(--harbour); padding: 14px 18px; border-radius: 6px; }
 .paper-types strong { display: block; font-family: var(--display); font-size: 1.1rem; }
