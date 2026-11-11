@@ -181,6 +181,10 @@ h3 { font: 600 1.25rem/1.25 var(--display); margin: 0 0 .75rem; }
 }
 .people .name { margin: 0; font-weight: 600; }
 .people .aff { margin: 0; color: var(--ink-soft); font-size: .95rem; }
+.people .role {
+  display: inline-block; margin: .4rem 0 0; background: var(--tag);
+  font-size: .82rem; font-weight: 600; padding: 2px 8px; border-radius: 4px;
+}
 .contact { margin-top: 3rem; }
 
 /* Editions */
